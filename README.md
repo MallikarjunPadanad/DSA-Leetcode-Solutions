@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
