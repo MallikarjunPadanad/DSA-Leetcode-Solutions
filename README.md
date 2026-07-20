@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
