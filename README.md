@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0713-subarray-product-less-than-k](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -182,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/MallikarjunPadanad/DSA-Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
